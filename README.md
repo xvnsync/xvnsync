@@ -1,16 +1,132 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xvnsync/xvnsync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<video src="https://v1.pinterest.com/videos/iht/expMp4/0b/eb/f7/0bebf7f74768daa9497d40d5986c7cb4_720w.mp4" width="100%" autoplay loop muted playsinline></video>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+VinZephyrine;Independent+Bot+%26+Backend+Developer;Building+APIs%2C+Bots%2C+and+Tools+%E2%9A%99%EF%B8%8F)](https://github.com/melvinzephyrine)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinzephyrine&style=flat-square&color=38BDF8&labelColor=0B1120&label=PROFILE+VIEWS)
+&ensp;
+[![GitHub Followers](https://img.shields.io/github/followers/vinzephyrine?style=flat-square&color=38BDF8&labelColor=0B1120&label=FOLLOWERS&logo=github&logoColor=38BDF8)](https://github.com/vinzephyrine?tab=followers)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<table width="100%" border="0">
+<tr>
+<td width="100%" valign="top">
+
+### 📌 TENTANG SAYA // BIODATA & FILOSOFI
+
+> *"Mengubah ide menjadi perangkat lunak fungsional melalui rekayasa pragmatis dan eksperimen berkelanjutan."*
+
+**Melvin (VinZephyrine)** adalah seorang independent developer asal Indonesia yang fokus membangun **bot otomatisasi**, **REST API**, dan **tooling backend**. Terbiasa bekerja cepat, iteratif, dan menyukai arsitektur yang ringan tapi solid.
+
+- 🎯 **Fokus Utama:** Bot Development (WhatsApp & Telegram), REST API, Automation Tooling
+- 🧩 **Prinsip Kerja:** Kode ringkas, dependensi minimal, eksekusi cepat
+- 🌱 **Status:** Aktif membangun & terus belajar
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🛠️ Keahlian & Teknologi
+
+<div align="center">
+
+**Bahasa Pemrograman**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+</tr>
+</table>
+
+**Runtime & Backend**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+</tr>
+</table>
+
+**Markup & Styling**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS</b></sub></td>
+</tr>
+</table>
+
+**Tools & Platform**
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## 🔗 Proyek Unggulan // Karya & Repositori
+
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 01 // Nama Proyek
+**Deskripsi singkat proyek di sini.**
+- Kategori: —
+- Demo Langsung: —
+- Source Code: —
+
+</td>
+</tr>
+</table>
+
+<sub>Ganti bagian ini dengan repo/proyek yang sudah kamu bangun.</sub>
+
+<br/>
+
+---
+
+## 🌐 Hubungi Saya 
+
+<div align="center">
+
+<a href="https://t.me/luyatiem" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-38BDF8?style=for-the-badge&logo=telegram&logoColor=0B1120" height="36"/>
+</a>
+&ensp;
+<a href="https://t.me/aboutvin7x" target="_blank">
+  <img src="https://img.shields.io/badge/Channel-38BDF8?style=for-the-badge&logo=telegram&logoColor=0B1120" height="36"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8,0B1120&height=100&section=footer" />
+</div>
