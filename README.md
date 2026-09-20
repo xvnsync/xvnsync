@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+VinZephyrine;Independent+Bot+%26+Backend+Developer;Building+APIs%2C+Bots%2C+and+Tools+%E2%9A%99%EF%B8%8F)](https://github.com/melvinzephyrine)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Melvin;Independent+Bot+%26+Backend+Developer;Building+APIs%2C+Bots%2C+and+Tools+%E2%9A%99%EF%B8%8F)](https://github.com/melvinzephyrine)
 
 <br/>
 
@@ -20,29 +20,25 @@
 
 <br/>
 
-<table width="100%" border="0">
-<tr>
-<td width="100%" valign="top">
+## 👤 About Me
 
-### 📌 TENTANG SAYA // BIODATA & FILOSOFI
-
-> *"Mengubah ide menjadi perangkat lunak fungsional melalui rekayasa pragmatis dan eksperimen berkelanjutan."*
-
-**Melvin (VinZephyrine)** adalah seorang independent developer asal Indonesia yang fokus membangun **bot otomatisasi**, **REST API**, dan **tooling backend**. Terbiasa bekerja cepat, iteratif, dan menyukai arsitektur yang ringan tapi solid.
-
-- 🎯 **Fokus Utama:** Bot Development (WhatsApp & Telegram), REST API, Automation Tooling
-- 🧩 **Prinsip Kerja:** Kode ringkas, dependensi minimal, eksekusi cepat
-- 🌱 **Status:** Aktif membangun & terus belajar
-
-</td>
-</tr>
-</table>
-
-<br/>
+```json
+const biodata = {
+  name      : "Melvin",
+  alias     : "VinZephyrine",
+  location  : "Indonesia 🇮🇩 - Medan",
+  birthday  : "2010-17-06",
+  hobby     : "Coli",
+  contact   : {
+    telegram  : "https://t.me/luyatiem",
+    channel   : "https://t.me/aboutvin7x",
+  }
+};
+```
 
 ---
 
-## 🛠️ Keahlian & Teknologi
+## 🛠️ My Skills
 
 <div align="center">
 
@@ -89,29 +85,7 @@
 
 ---
 
-## 🔗 Proyek Unggulan // Karya & Repositori
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 01 // Nama Proyek
-**Deskripsi singkat proyek di sini.**
-- Kategori: —
-- Demo Langsung: —
-- Source Code: —
-
-</td>
-</tr>
-</table>
-
-<sub>Ganti bagian ini dengan repo/proyek yang sudah kamu bangun.</sub>
-
-<br/>
-
----
-
-## 🌐 Hubungi Saya 
+## 🌐 Contact Me
 
 <div align="center">
 
