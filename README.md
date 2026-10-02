@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+everyone!+I'm+Melvin;Independent+Bot+%26+Backend+Developer;Building+APIs%2C+Bots%2C+and+Tools+%E2%9A%99%EF%B8%8F)](https://github.com/melvinzephyrine)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Melvin;Independent+Bot+%26+Backend+Developer;Building+APIs%2C+Bots%2C+and+Tools+%E2%9A%99%EF%B8%8F)](https://github.com/melvinzephyrine)
 
 <br/>
 
