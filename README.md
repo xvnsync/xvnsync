@@ -99,8 +99,8 @@ const biodata = {
 
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8,0B1120&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks+for+visiting!+✨&fontSize=24&fontColor=FFC0CB&fontAlignY=65" width="100%" alt="Footer Wave" />
 </div>
