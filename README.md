@@ -22,7 +22,7 @@
 
 ## 👤 About Me
 
-```bash
+```javascript
 const biodata = {
   name      : "Melvin",
   alias     : "VinZephyrine",
